@@ -19,7 +19,7 @@
 ```
 auto eno1
 iface eno1 inet static
-address 192.168.1.11
+address 192.168.1.20
 netmask 255.255.255.0
 gateway 0.0.0.0
 ```
@@ -29,8 +29,6 @@ gateway 0.0.0.0
 设置主从机IP
 
 参考博客操作：[一遍成功的ROS主从机详细配置_zhanghm1995的博客-CSDN博客](https://blog.csdn.net/zhanghm1995/article/details/106781954)
-
-
 
 3.调解offset
 
